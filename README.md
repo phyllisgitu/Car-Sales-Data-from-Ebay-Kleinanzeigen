@@ -1,7 +1,8 @@
 # Car-Sales-Data-from-Ebay-Kleinanzeigen
 This project is an analysis of sales dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website. This analysis provides useful insights to enable one to sell, buy or investigate the best value deals for used cars.  
 
-The content of the data is in german, so one has to translate it first if one can not speak german.  Source: data.world - https://data.world/data-society/used-cars-data
+The content of the data is in german, so one has to translate it first if one can not speak german.  
+Source: data.world - https://data.world/data-society/used-cars-data
 
 The data dictionary provided with data is as follows:  
 - dateCrawled - When this ad was first crawled. All field-values are taken from this date. 
